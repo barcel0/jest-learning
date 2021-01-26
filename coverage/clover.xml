@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611679271397" clover="3.2.0">
-  <project timestamp="1611679271397" name="All files">
-    <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="23" coveredelements="23" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+<coverage generated="1611682130661" clover="3.2.0">
+  <project timestamp="1611682130661" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="26" coveredelements="26" complexity="0" loc="18" ncloc="18" packages="1" files="4" classes="4"/>
+    <file name="arrayDuplicator.js" path="/Volumes/data/dev/sandbox/jest-learning/arrayDuplicator.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
     <file name="capitalizeFirstChar.js" path="/Volumes/data/dev/sandbox/jest-learning/capitalizeFirstChar.js">
       <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
