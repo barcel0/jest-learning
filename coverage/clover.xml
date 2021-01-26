@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611677937585" clover="3.2.0">
-  <project timestamp="1611677937586" name="All files">
-    <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="16" coveredelements="16" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+<coverage generated="1611679271397" clover="3.2.0">
+  <project timestamp="1611679271397" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="23" coveredelements="23" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+    <file name="capitalizeFirstChar.js" path="/Volumes/data/dev/sandbox/jest-learning/capitalizeFirstChar.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
     <file name="dateFormatter.js" path="/Volumes/data/dev/sandbox/jest-learning/dateFormatter.js">
       <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="3" count="1" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="4" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
       <line num="10" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
     </file>
     <file name="sum.js" path="/Volumes/data/dev/sandbox/jest-learning/sum.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
